@@ -5,29 +5,29 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: "Bettina Maria" # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Full Stack Developer</h1>
+     <p>I'm currently enrolled in Bloc.io (expected graduation: summer 2017)</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love in Austria.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "bettina_maria@outlook.com" # Full email address
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "bettinaoffenegger"
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "https://github.com/bettinamaria/" # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  "https://cn.linkedin.com/in/offeneggerbettina" # Full URL
   pinterest:
   reddit:
   soundcloud:
