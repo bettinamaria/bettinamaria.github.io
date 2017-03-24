@@ -16,7 +16,8 @@ Angular is a Javascript framework that is mainly used to build CRUD (Create, Rea
 
 ## Problem
 
-Now, what does a digital music web player need to actually work? The requirements for Bloc Jams Angular were outlined in user stories i.e. a step by step breakdown of the web app's structure to build all of its functionality. Basically, my homework as a developer was to find a way to solve and implement the following.   * Bootstrap Angular to the existing Bloc Jams application and create an Angular module
+Now, what does a digital music web player need to actually work? The requirements for Bloc Jams Angular were outlined in user stories i.e. a step by step breakdown of the web app's structure to build all of its functionality. Basically, my homework as a developer was to find a way to solve and implement the following.  
+1. Bootstrap Angular to the existing Bloc Jams application and create an Angular module
   * Configure routing and states for the application
   * Implement controllers for the application's views
   * Create a service that controls song playback
