@@ -12,7 +12,7 @@ theme_settings:
   header_text: >
      <h1>Full Stack Developer</h1>
      <p>I'm currently enrolled in Bloc.io (expected graduation: summer 2017)</p>
-  header_text_feature_image:
+  header_text_feature_image: "img/blocchat.png"
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love in Austria.
 
@@ -26,7 +26,7 @@ theme_settings:
   flickr:
   github: "bettinamaria" # github profile name, e.g. "madebymunsters"
   google_plus:
-  instagram:
+  instagram: "bettina_maria"
   linkedin:  "https://cn.linkedin.com/in/offeneggerbettina" # Full URL
   pinterest:
   reddit:

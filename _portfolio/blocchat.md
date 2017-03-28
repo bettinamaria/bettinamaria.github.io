@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocitoff
+title: BlocChat
 thumbnail-path: "img/blocchat.png"
 short-description: Bloc Chat is a real-time chat application
 
