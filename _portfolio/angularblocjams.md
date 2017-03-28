@@ -1,17 +1,17 @@
 ---
 layout: post
-title: BlocJams Music Player in Angular
+title: BlocJams Music Player
 thumbnail-path: "img/blocflix.png"
 short-description: BlocJams is a digital music player, a Spotify replica where you can find music to play back and listen to online.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/blocjams.png)
 
 ## Explanation
 
-For this project in the front end web development foundation part, the task was to rework the initally built Bloc Jams by using the Angular JavaScript framework. Think of it like a replica of Spotify, a digital music player where you can find music to play back and listen to. Requirements were to build the backbone of the application by using Angular, a single web page application framework to serve as the overall structure; with HTML to be used as the backbone of the application layout, CSS and jQuery to add styling, like animations and responsiveness to the web app and to implement interactivity to the music player (e.g. to start and stop playing a song and to jump from one song to the next) with Javascript. 
+For this project in the front end web development foundation part, the task was to build Bloc Jams; think of it like a replica of Spotify, a digital music player where you can find music to play back and listen to. After the initial built was done by leveraging Html, CSS and plain Javascript, I had to rebuild the app using the Angular framework.  Requirements were to build the backbone of the application by using Angular, a single web page application framework to serve as the overall structure; with HTML to be used as the backbone of the application layout, CSS and jQuery to add styling, like animations and responsiveness to the web app and to implement interactivity to the music player (e.g. to start and stop playing a song and to jump from one song to the next) with Javascript. 
 Angular is a Javascript framework that is mainly used to build CRUD (Create, Read, Update, Delete) dynamic web applications. These dynamic web applications come in the form of single-page applications (SPAs) that do not require page loads when navigating between pages. Examples of SPAs include Gmail and Medium.
 
 ## Problem
@@ -25,7 +25,6 @@ Now, what does a digital music web player need to actually work? The requirement
   * Create a custom time code filter
   * Complete all user stories and ensure web app runs as anticipated
 
-
 ## Solution
 
 With the initial setup of the app - *it was explained that it is better to use a NodeJS server*. *SPAs that change the URLs of an application require a server to intercept their requests and allow the frontend of the application to handle what's displayed in the browser.*
@@ -36,10 +35,8 @@ he browser also has to load a new HTML document when a user navigates between th
 
 ## Results
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-> Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+After working through all user stories, the music player works as requested. 
 
 ## Conclusion
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+This project taught me how to look at a web application by breaking the music player's functionality down into small steps. It made me better understand how each part interacts with each other and how one would look at building play, pause, next and previous song button from scratch. 
