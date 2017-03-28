@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlocJams Music Player
-thumbnail-path: "img/blocflix.png"
+thumbnail-path: "img/blocjams.png"
 short-description: BlocJams is a digital music player, a Spotify replica where you can find music to play back and listen to online.
 
 ---
