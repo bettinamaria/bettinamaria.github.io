@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Blocitoff
-thumbnail-path: "img/blocjams.png"
-short-description: xxx
+thumbnail-path: "img/blocchat.png"
+short-description: Bloc Chat is a real-time chat application
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }}/img/blocchat.png)
 
 ## Explanation
 
