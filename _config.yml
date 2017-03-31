@@ -12,7 +12,7 @@ theme_settings:
   header_text: >
      <h1>Full Stack Developer</h1>
      <p>I'm currently enrolled in Bloc.io (expected graduation: summer 2017)</p>
-  header_text_feature_image: "img/blocchat.png"
+  header_text_feature_image: "img/StockSnap_laptopcoffeeemptyspace.jpg"
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love in Austria.
 
