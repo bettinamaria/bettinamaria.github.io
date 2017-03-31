@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Your experience with Bloc & The biggest challenge you've faced when learning to develop
+title: Your experience with Bloc 
 ---
 
 Why Bloc.io and not Free Code Camp (private versus free education)?
-xxx
+
+
+The biggest challenge you've faced when learning to develop
